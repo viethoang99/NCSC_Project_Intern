@@ -253,12 +253,12 @@ int main()
         switch (c) {
         case 1:
         	cdl.display();
-            cdl.insert_begin(1000);
+            cdl.insert_begin(10000);
             cdl.display();
             break;
         case 2:
         	cdl.display();
-            cdl.insert_end(99);
+            cdl.insert_end(10001);
             cdl.display();
             break;
         case 3:
@@ -269,6 +269,8 @@ int main()
         case 4:
         	cdl.display();
             cdl.delete_pos(1);
+            cdl.delete_pos(2);
+            cdl.delete_pos(cdl.count-1);
             cdl.display();
             break;
         case 5:
