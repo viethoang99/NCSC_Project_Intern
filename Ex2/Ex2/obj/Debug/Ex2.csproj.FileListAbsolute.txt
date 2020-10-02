@@ -11,16 +11,3 @@ C:\Users\Hoang Viet\source\repos\Ex2\Ex2\obj\Debug\Ex2.frm1.resources
 C:\Users\Hoang Viet\source\repos\Ex2\Ex2\obj\Debug\Ex2.frm2.resources
 C:\Users\Hoang Viet\source\repos\Ex2\Ex2\obj\Debug\Ex2.frm3.resources
 C:\Users\Hoang Viet\source\repos\Ex2\Ex2\obj\Debug\Ex2.frmMain.resources
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\bin\Debug\Ex2.exe.config
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\bin\Debug\Ex2.exe
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\bin\Debug\Ex2.pdb
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.frm1.resources
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.frm2.resources
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.frm3.resources
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.frmMain.resources
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.exe
-C:\Users\Hoang Viet\Desktop\NCSC_Project_Intern\Ex2\Ex2\obj\Debug\Ex2.pdb
